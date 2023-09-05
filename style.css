@@ -1,0 +1,38 @@
+    *{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    header{
+    background-image: url(IMG20220226175700.jpg);
+    background-position:center;
+    width: 500px;
+        }
+    .logo{
+        width: 100px;
+        background-position: left;
+    }
+    h1{
+    font-family: 'Times New Roman', Times, serif;
+    }
+    img{
+    width: 600px ;
+    height: 600px;
+    }
+    .navbar .container-fluid{
+    background-color: aquamarine;
+    }
+    body{
+    background-color: rgb(153, 196, 182);
+    }
+    p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    }
+    .clearfix{
+        display: center;
+        text-align: center;
+        margin: 1em;
+        padding: 1em 2em 1em 2em;
+    }
